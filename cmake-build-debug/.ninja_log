@@ -1,0 +1,11 @@
+# ninja log v5
+0	311	1669178293703499925	CMakeFiles/c__11.dir/inherence.cpp.o	f1f86ba6edc95600
+0	314	1669178293705537502	CMakeFiles/c__11.dir/friend.cpp.o	8350f7b31146fbbd
+1	315	1669178293705951168	CMakeFiles/c__11.dir/operator.cpp.o	c133adb90f07ef1
+0	332	1669178293722396870	CMakeFiles/c__11.dir/exception.cpp.o	9e22b11f15b56d23
+0	343	1669178293735208207	CMakeFiles/c__11.dir/file_exp.cpp.o	9ecb6002eb30e85f
+313	465	1669178293858224639	CMakeFiles/c__11.dir/tempCodeRunnerFile.cpp.o	689345895f9fefb5
+315	530	1669178293922300035	CMakeFiles/c__11.dir/virtualfunc.cpp.o	46375f35324ebab5
+314	531	1669178293922827866	CMakeFiles/c__11.dir/template.cpp.o	5ac892197b232bb4
+8	297	1669178515772816828	CMakeFiles/c__11.dir/STL.cpp.o	74d7bffadbfbe704
+5	253	1669178832340414392	CMakeFiles/c__11.dir/STL.cpp.o	74d7bffadbfbe704

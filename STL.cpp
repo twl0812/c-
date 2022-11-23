@@ -22,8 +22,8 @@ using namespace std;
 */
 
 // vector,list
-int main11()
-{
+//int main11()
+//{
     /*
         list:DLL
         vector:array,contiguous memory
@@ -51,19 +51,19 @@ int main11()
         rbegin():reverse begin
         rend(): reverse end
     */
-    vector<int> v={1,2,3,4,5};
-    list<int>v2={1,2,3,4,5};
-    for(auto& e:v)
-    {
-        cout<<e<<endl;
-    }
-    for(auto& e:v2)
-    {
-        cout<<e<<endl;
-    }
-    return 0;
-}
-int main4()
+    // vector<int> v={1,2,3,4,5};
+    // list<int>v2={1,2,3,4,5};
+    // for(auto& e:v)
+    // {
+    //     cout<<e<<endl;
+    // }
+    // for(auto& e:v2)
+    // {
+    //     cout<<e<<endl;
+    // }
+    // return 0;
+//}
+int main()
 {
     list<int> v;
     v.push_back(2);
@@ -71,22 +71,22 @@ int main4()
     v.push_back(1);
     v.push_back(4);
     v.push_back(5);    
-    for(auto& i= v.begin(); i!=v.end();i++)
+    for(auto i= v.begin(); i!=v.end();i++)
     {
         cout<<*i<<endl;
     }
-    for(auto&e:v)
+    for(auto e:v)
     {
-        cout<<e<<endl;
+        cout<<e<<" ";
     }
     return 0;
 }
-int main()
-{
-    deque<int>dq;
-    dq.push_back(10);
-    dq.push_back(20);
-    dq.push_front(999);
-    dq.push_front(100);
+// int main5()
+// {
+//     deque<int>dq;
+//     dq.push_back(10);
+//     dq.push_back(20);
+//     dq.push_front(999);
+//     dq.push_front(100);
 
-}
+// }
